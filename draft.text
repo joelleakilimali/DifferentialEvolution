@@ -1,0 +1,181 @@
+
+
+
+# def differentialEevolutionStep(initialSolution, mutatedSolution):
+    
+#     # Display initial solutions
+#     print('Initial solution:\n')
+#     for row in initialSolution:
+#         print(row)
+        
+#     # num_cols = initialSolution.shape[1]  
+    
+#     for i in range(col):
+#         # Generate unique random indices for mutation
+#         randPositionList = generateUniqueNumber(i)  
+#         print('selected columns',randPositionList[0],randPositionList[1],randPositionList[2])
+#         # Select vectors for mutation
+#         vector1 = selectVector(randPositionList[0], initialSolution)
+#         vector2 = selectVector(randPositionList[1], initialSolution)
+#         vector3 = selectVector(randPositionList[2], initialSolution)
+#         print("\nVectors selected for mutation:")
+#         print("Vector 1:\n", vector1, "\nVector 2:\n", vector2, "\nVector 3:\n", vector3, "\n")
+#         # Generate donor vector
+#         donorVectorToReplace = generateDonorVector(vector1, vector2, vector3)
+#         print(f"Donor vector at position {i}:\n{donorVectorToReplace}\n")
+        
+#         # Assign donor vector to mutated solution at column i
+#         mutatedSolution = assignDonorVectorToCol(mutatedSolution, donorVectorToReplace, i)
+    
+#         crossOver = crossOverComparison(initialSolution, mutatedSolution)
+        
+#         print("Initial Solution:\n")
+#         print("\n".join(str(row) for row in initialSolution))
+#         print("\nMutated Solution Filled:\n")
+#         print("\n".join(str(row) for row in mutatedSolution))
+#         print("Crossover Solution Filled:\n")
+#         print("\n".join(str(row) for row in crossOver))
+        
+#     # # Step 3: Selection
+#     print('\nSelection:\n')
+#     print('-' * 80 + '\n')
+#     newMatrix = selection(initialSolution, crossOver)
+
+#     print('\nNew solution matrix after selection:\n')
+#     for row in newMatrix:
+#         print(row)
+
+#     return newMatrix
+
+
+
+
+
+# with open('result.txt', 'w') as file:
+#     sys.stdout = file
+    
+#     count=0
+#     for i in range(1000):
+#         solution=differentialEevolutionStep(initialSolution,mutatedSolution)
+#         count=count+1
+#         if(count==99):
+#             minColumnSum(solution)
+#             count=0
+#     for row in initialSolution:
+#         print(row)    
+        
+#     for row in solution:
+#         print(row)  
+        
+                        
+# sys.stdout = sys.__stdout__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def mutation_crossover_process(row, col, min_val, max_val):
+#     # Step 1: Initialization
+#     initialSolution = generate2DArray(row, col, min_val, max_val)
+#     mutatedSolution = generate2DArray(row, col, 0, 0)
+
+#     with open('output.txt', 'w') as file:
+#         sys.stdout = file  # Redirect stdout to the file
+
+#         # Print initial solution
+#         print('initial solution : \n')
+#         print("\n")
+#         for row in initialSolution:
+#             print(row)
+#         print("\n")
+
+#         # Print mutated solution
+#         print('mutated solution : \n')
+#         print("\n")
+#         for row in mutatedSolution:
+#             print(row)
+#         print("\n")
+
+#         # Mutation
+#         print('Mutation  : \n',)
+#         print('-' * 80 + '\n')
+        
+#         for i in range(col):
+#             randPositionList = generateUniqueNumber(i)
+#             print('selected columns', randPositionList[0], randPositionList[1], randPositionList[2])
+
+#             vector1 = selectVector(randPositionList[0], initialSolution)
+#             vector2 = selectVector(randPositionList[1], initialSolution)
+#             vector3 = selectVector(randPositionList[2], initialSolution)
+#             print("Vector 1:\n", vector1, "\nVector 2:\n", vector2, "\nVector 3:\n", vector3, "\n")
+
+
+
+#             donorVectorToReplace = generateDonorVector(vector1, vector2, vector3)
+
+#             print('donor vector at position :', i)
+#             print("\n")
+#             print(donorVectorToReplace)
+
+#             mutatedSolution = assignDonorVectorToCol(mutatedSolution, donorVectorToReplace, i)
+
+#         # Re-print initial and mutated solutions after mutation process
+#         print('initial solution : \n')
+#         print("\n")
+#         for row in initialSolution:
+#             print(row)
+#             print("\n")
+
+#         print('mutated solution filled : \n')
+#         print("\n")
+#         for row in mutatedSolution:
+#             print(row)
+#             print("\n")
+
+#         # Step 3: Crossover
+#         print('Cross over  : \n')
+#         print('-' * 80 + '\n')
+        
+#         crossOver = crossOverComparison(initialSolution, mutatedSolution)
+
+#         print('Cross over solution filled : \n')
+#         print("\n")
+#         for row in crossOver:
+#             print(row)
+        
+#         print('mutated solution filled : \n')
+#         for row in mutatedSolution:
+#             print(row)
+#             print("\n")
+        
+#         print('initial solution : \n')
+#         for row in initialSolution:
+#             print(row)
+#             print("\n")
+        
+#         # Selection
+#         print('Selection: \n')
+#         print('-' * 80 + '\n')
+        
+#         newMatrix = selection(initialSolution, crossOver)
+#         for row in newMatrix:
+#             print(row)
+#             print("\n")
+        
+#     # Restore stdout
+#     sys.stdout = sys.__stdout__
+
+
+# a=mutation_crossover_process(row,col,min,max)
