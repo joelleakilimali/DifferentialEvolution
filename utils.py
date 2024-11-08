@@ -51,6 +51,7 @@ def crossOverComparison(matrix1, matrix2):
         newCrossOverCol = npy.zeros((row, 1))
 
         for j in range(row):
+            # print(" rand number of comp  with 0.6:",randomNumber[j])
             if randomNumber[j] > CR:
                 newCrossOverCol[j] = mutatedCol[j]
             else:
@@ -71,9 +72,7 @@ def selection(matrix1, matrix2):
     matrix1 = npy.array(matrix1)
     newInitialSolution = npy.zeros_like(matrix1)
 
-    # Iterate over each column index
     for column in range(matrix1.shape[1]):
-        # Compute the sum of squares for each column in both matrices
         sum_squares_matrix1 = npy.sum(matrix1[:, column] ** 2)
         sum_squares_matrix2 = npy.sum(matrix2[:, column] ** 2)
         
@@ -88,13 +87,15 @@ def selection(matrix1, matrix2):
 
 
 
+
 def minColumnSum(matrix):
-    column_sums = npy.sum(matrix, axis=0)
+    column_sums = npy.sum(matrix ** 2, axis=0)
     
     min_index = npy.argmin(column_sums)
     
+    
     minSumVal = column_sums[min_index]
     
-    print(f"The column with the minimum sum is column {min_index} with a sum of {minSumVal}")
-    
+    print(f"The column with the minimum sum of squares is column {min_index} with a sum of {minSumVal}")
     return min_index, minSumVal
+    

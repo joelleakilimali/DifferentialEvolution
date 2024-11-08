@@ -179,3 +179,10 @@
 
 
 # a=mutation_crossover_process(row,col,min,max)
+
+
+
+
+finalResult = processSolutions(
+    initialSolution=initialSolution,
+    mutatedSolution=mutatedSolution,)
