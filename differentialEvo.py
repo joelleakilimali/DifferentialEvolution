@@ -142,26 +142,22 @@ with open('selection.txt', 'w') as file:
     count=0
 
     newInitial=initialSolution
-
-                              
+                             
     for i in range(1000):
-        count = count + 1
+        
         print(" run :",i)
         print("\n")            
-
-        
-                   
-        selectedMatrice = processSolutions( initialSolution=newInitial,
-        mutatedSolution=mutatedSolution,)
-        
-        newInitial=selectedMatrice
-        
-   
                  
+        selectedMatrice = processSolutions( initialSolution=newInitial,
+        mutatedSolution=mutatedSolution,)  
+        newInitial=selectedMatrice
+            
         if(count==9):
             minColumnSum(selectedMatrice)
             
             count=0
+            
+        count = count + 1
         
                          
 sys.stdout = sys.__stdout__

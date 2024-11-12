@@ -64,8 +64,6 @@ def crossOverComparison(matrix1, matrix2):
     return crossOverGenMatrix  
   
 
-
-
 def selection(matrix1, matrix2):
     
    
@@ -83,9 +81,6 @@ def selection(matrix1, matrix2):
             newInitialSolution[:, column] = matrix2[:, column]
     
     return newInitialSolution
-
-
-
 
 
 def minColumnSum(matrix):
