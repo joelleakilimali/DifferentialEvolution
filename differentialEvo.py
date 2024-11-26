@@ -1,11 +1,13 @@
-from constants import row,col,min,max
+import array
+from constants import row,col,minV,maxV
 from colorama import Fore, Style
 from utils import *
 import sys
+import math
 
 # step 1 :initialization
 
-initialSolution = generate2DArray(row,col,min,max)
+initialSolution = generate2DArray(row,col,minV,maxV)
 
 # step 2 :Mutation
 mutatedSolution=generate2DArray(row,col,0,0)
@@ -143,25 +145,45 @@ with open('selection2.txt', 'w') as file:
     
     sys.stdout = file
     print("differential evolution")
-    count=0
-
-    newInitial=initialSolution
-                             
-    for i in range(1000):
+    tab =  [0.0,0.0,0.0,0.0,0.0]
+    
+    for time in range(5):
+        value=0
         
-        print(" run :",i)
-        print("\n")            
-                 
-        selectedMatrice = processSolutions( initialSolution=newInitial,
-        mutatedSolution=mutatedSolution,)  
-        newInitial=selectedMatrice
+        count=0
+        newInitial=initialSolution
+                                
+        for i in range(1000):
             
-        if(count==9):
-            minColumnSum(selectedMatrice)
+            # print(" run :",i)
+            # print("\n")            
+                    
+            selectedMatrice = processSolutions( initialSolution=newInitial,
+            mutatedSolution=mutatedSolution,)  
+            newInitial=selectedMatrice
+                
+            if(count==9):
+                value=minColumnSum(selectedMatrice)
+                
+                count=0
             
-            count=0
-            
-        count = count + 1
+               
+            count = count + 1
+        print(" zeu val:", value,time) 
+        print("----------------------------------------")
+        count=0
+        
+        tab[time]=value
+    print("the tab:",tab)
+    
+    minimum = 0 
+    average=0   
+    minimum = min(tab)
+    average = math.fsum(tab) / len(tab)
+    print("the  min is\n:",minimum)
+    print("the average is\n:",average)
+    
+
         
                          
 sys.stdout = sys.__stdout__

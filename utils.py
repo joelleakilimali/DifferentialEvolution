@@ -2,8 +2,8 @@ import random
 from constants import col,F,CR,row
 import numpy as npy
 
-def generate2DArray(rows,cols,min,max):
-  return [[round(random.uniform(min, max), 2) for _ in range(cols)] for _ in range(rows)]
+def generate2DArray(rows,cols,minV,maxV):
+  return [[round(random.uniform(minV, maxV), 2) for _ in range(cols)] for _ in range(rows)]
 
 def generateUniqueNumber(excludedNumber):
 
@@ -136,6 +136,6 @@ def minColumnSum(matrix):
     
     minSumVal = column_sums[min_index]
     
-    print(f"The column with the minimum sum of squares is column {min_index} with a sum of {minSumVal}")
+    # print(f"The column with the minimum sum of squares is column {min_index} with a sum of {minSumVal}")
     return  minSumVal
     
