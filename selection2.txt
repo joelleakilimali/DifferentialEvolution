@@ -29,10 +29,7 @@ differential evolution
  run : 9
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 2 with a sum of 12.926027132000002
+The column with the minimum sum of squares is column 44 with a sum of 65.68157200210001
  run : 10
 
 
@@ -60,10 +57,7 @@ The column with the minimum sum of squares is column 2 with a sum of 12.92602713
  run : 18
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 2 with a sum of 12.926027132000002
+The column with the minimum sum of squares is column 23 with a sum of 55.67968608611802
  run : 19
 
 
@@ -91,10 +85,7 @@ The column with the minimum sum of squares is column 2 with a sum of 12.92602713
  run : 27
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 2 with a sum of 10.698536160919492
+The column with the minimum sum of squares is column 36 with a sum of 23.18537223681078
  run : 28
 
 
@@ -122,10 +113,7 @@ The column with the minimum sum of squares is column 2 with a sum of 10.69853616
  run : 36
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 2 with a sum of 10.698536160919492
+The column with the minimum sum of squares is column 36 with a sum of 23.18537223681078
  run : 37
 
 
@@ -153,10 +141,7 @@ The column with the minimum sum of squares is column 2 with a sum of 10.69853616
  run : 45
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 2 with a sum of 10.367978471628858
+The column with the minimum sum of squares is column 36 with a sum of 12.645005242253761
  run : 46
 
 
@@ -184,10 +169,7 @@ The column with the minimum sum of squares is column 2 with a sum of 10.36797847
  run : 54
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 6.957545199757012
+The column with the minimum sum of squares is column 27 with a sum of 8.988923437025045
  run : 55
 
 
@@ -215,10 +197,7 @@ The column with the minimum sum of squares is column 3 with a sum of 6.957545199
  run : 63
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 6.957545199757012
+The column with the minimum sum of squares is column 36 with a sum of 8.150524798208998
  run : 64
 
 
@@ -246,10 +225,7 @@ The column with the minimum sum of squares is column 3 with a sum of 6.957545199
  run : 72
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.632525955156711
+The column with the minimum sum of squares is column 2 with a sum of 3.9026423576109406
  run : 73
 
 
@@ -277,10 +253,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.632525955
  run : 81
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 30 with a sum of 2.8245596312714976
  run : 82
 
 
@@ -308,10 +281,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 90
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 10 with a sum of 1.929998562007376
  run : 91
 
 
@@ -339,10 +309,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 99
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 40 with a sum of 1.0444636772058722
  run : 100
 
 
@@ -370,10 +337,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 108
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 33 with a sum of 0.4771141117671508
  run : 109
 
 
@@ -401,10 +365,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 117
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 24 with a sum of 0.21350415289628985
  run : 118
 
 
@@ -432,10 +393,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 126
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 24 with a sum of 0.21350415289628985
  run : 127
 
 
@@ -463,10 +421,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 135
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 24 with a sum of 0.21350415289628985
  run : 136
 
 
@@ -494,10 +449,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 144
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 23 with a sum of 0.16434327376266583
  run : 145
 
 
@@ -525,10 +477,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 153
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 15 with a sum of 0.12266442322901709
  run : 154
 
 
@@ -556,10 +505,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 162
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.462286139198477
+The column with the minimum sum of squares is column 3 with a sum of 0.06713728167888969
  run : 163
 
 
@@ -587,10 +533,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.462286139
  run : 171
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.374967109456607
+The column with the minimum sum of squares is column 28 with a sum of 0.02661342546451088
  run : 172
 
 
@@ -618,10 +561,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.374967109
  run : 180
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.374967109456607
+The column with the minimum sum of squares is column 3 with a sum of 0.013093335243003448
  run : 181
 
 
@@ -649,10 +589,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.374967109
  run : 189
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.374967109456607
+The column with the minimum sum of squares is column 3 with a sum of 0.01196310028456539
  run : 190
 
 
@@ -680,10 +617,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.374967109
  run : 198
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.374967109456607
+The column with the minimum sum of squares is column 30 with a sum of 0.004618981814546832
  run : 199
 
 
@@ -711,10 +645,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.374967109
  run : 207
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.321200023332753
+The column with the minimum sum of squares is column 30 with a sum of 0.004618981814546832
  run : 208
 
 
@@ -742,10 +673,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.321200023
  run : 216
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.262609476416705
+The column with the minimum sum of squares is column 13 with a sum of 0.0027455659370933445
  run : 217
 
 
@@ -773,10 +701,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.262609476
  run : 225
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.262609476416705
+The column with the minimum sum of squares is column 32 with a sum of 0.0021066804542065215
  run : 226
 
 
@@ -804,10 +729,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.262609476
  run : 234
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 22 with a sum of 0.0018290212433214126
  run : 235
 
 
@@ -835,10 +757,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 243
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 21 with a sum of 0.0010200550872468015
  run : 244
 
 
@@ -866,10 +785,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 252
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 41 with a sum of 0.0006687157118713794
  run : 253
 
 
@@ -897,10 +813,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 261
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 11 with a sum of 0.0003157861788507925
  run : 262
 
 
@@ -928,10 +841,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 270
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 41 with a sum of 0.0002347035900868172
  run : 271
 
 
@@ -959,10 +869,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 279
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 46 with a sum of 0.0001586948110812494
  run : 280
 
 
@@ -990,10 +897,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 288
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.223837508799839
+The column with the minimum sum of squares is column 43 with a sum of 7.403176407860213e-05
  run : 289
 
 
@@ -1021,10 +925,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.223837508
  run : 297
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.199923958755351
+The column with the minimum sum of squares is column 43 with a sum of 7.403176407860213e-05
  run : 298
 
 
@@ -1052,10 +953,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.199923958
  run : 306
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 43 with a sum of 4.65391748716853e-05
  run : 307
 
 
@@ -1083,10 +981,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 315
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 49 with a sum of 2.9968329090351038e-05
  run : 316
 
 
@@ -1114,10 +1009,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 324
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 49 with a sum of 2.2013226695537983e-05
  run : 325
 
 
@@ -1145,10 +1037,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 333
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 19 with a sum of 1.2720096426141472e-05
  run : 334
 
 
@@ -1176,10 +1065,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 342
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 43 with a sum of 8.930356107733766e-06
  run : 343
 
 
@@ -1207,10 +1093,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 351
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 46 with a sum of 5.309817621308075e-06
  run : 352
 
 
@@ -1238,10 +1121,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 360
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.181744203590941
+The column with the minimum sum of squares is column 11 with a sum of 3.314296172134724e-06
  run : 361
 
 
@@ -1269,10 +1149,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.181744203
  run : 369
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.17183342696155
+The column with the minimum sum of squares is column 15 with a sum of 2.9385024628033626e-06
  run : 370
 
 
@@ -1300,10 +1177,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.171833426
  run : 378
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.17183342696155
+The column with the minimum sum of squares is column 15 with a sum of 1.5221460546201168e-06
  run : 379
 
 
@@ -1331,10 +1205,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.171833426
  run : 387
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.163697228220484
+The column with the minimum sum of squares is column 36 with a sum of 1.2560643655691682e-06
  run : 388
 
 
@@ -1362,10 +1233,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.163697228
  run : 396
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.159682396164035
+The column with the minimum sum of squares is column 16 with a sum of 5.086721965810024e-07
  run : 397
 
 
@@ -1393,10 +1261,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.159682396
  run : 405
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.155976369222372
+The column with the minimum sum of squares is column 16 with a sum of 3.6455284883250466e-07
  run : 406
 
 
@@ -1424,10 +1289,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.155976369
  run : 414
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.155976369222372
+The column with the minimum sum of squares is column 4 with a sum of 2.0617986920213487e-07
  run : 415
 
 
@@ -1455,10 +1317,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.155976369
  run : 423
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.155976369222372
+The column with the minimum sum of squares is column 44 with a sum of 1.1864444666544118e-07
  run : 424
 
 
@@ -1486,10 +1345,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.155976369
  run : 432
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.155976369222372
+The column with the minimum sum of squares is column 34 with a sum of 7.974672745101697e-08
  run : 433
 
 
@@ -1517,10 +1373,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.155976369
  run : 441
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.155976369222372
+The column with the minimum sum of squares is column 5 with a sum of 3.6458101824974585e-08
  run : 442
 
 
@@ -1548,10 +1401,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.155976369
  run : 450
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.154844446722224
+The column with the minimum sum of squares is column 29 with a sum of 3.5726762204142573e-08
  run : 451
 
 
@@ -1579,10 +1429,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.154844446
  run : 459
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.154844446722224
+The column with the minimum sum of squares is column 29 with a sum of 3.5726762204142573e-08
  run : 460
 
 
@@ -1610,10 +1457,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.154844446
  run : 468
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.154844446722224
+The column with the minimum sum of squares is column 3 with a sum of 1.6613438545194433e-08
  run : 469
 
 
@@ -1641,10 +1485,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.154844446
  run : 477
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.154844446722224
+The column with the minimum sum of squares is column 8 with a sum of 1.0102899055114219e-08
  run : 478
 
 
@@ -1672,10 +1513,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.154844446
  run : 486
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.154844446722224
+The column with the minimum sum of squares is column 27 with a sum of 9.648323386331694e-09
  run : 487
 
 
@@ -1703,10 +1541,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.154844446
  run : 495
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.1537226201018775
+The column with the minimum sum of squares is column 11 with a sum of 5.7521181945360705e-09
  run : 496
 
 
@@ -1734,10 +1569,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.153722620
  run : 504
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.1537226201018775
+The column with the minimum sum of squares is column 19 with a sum of 3.5726472195917873e-09
  run : 505
 
 
@@ -1765,10 +1597,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.153722620
  run : 513
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.1537226201018775
+The column with the minimum sum of squares is column 23 with a sum of 1.5906883802482e-09
  run : 514
 
 
@@ -1796,10 +1625,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.153722620
  run : 522
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.1537226201018775
+The column with the minimum sum of squares is column 5 with a sum of 1.5632109914708627e-09
  run : 523
 
 
@@ -1827,10 +1653,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.153722620
  run : 531
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.152189904525567
+The column with the minimum sum of squares is column 42 with a sum of 7.624110047100885e-10
  run : 532
 
 
@@ -1858,10 +1681,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.152189904
  run : 540
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.152189904525567
+The column with the minimum sum of squares is column 42 with a sum of 7.335680827085302e-10
  run : 541
 
 
@@ -1889,10 +1709,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.152189904
  run : 549
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.152189904525567
+The column with the minimum sum of squares is column 36 with a sum of 2.703571584996368e-10
  run : 550
 
 
@@ -1920,10 +1737,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.152189904
  run : 558
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.152189904525567
+The column with the minimum sum of squares is column 19 with a sum of 2.664064231614114e-10
  run : 559
 
 
@@ -1951,10 +1765,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.152189904
  run : 567
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.152189904525567
+The column with the minimum sum of squares is column 40 with a sum of 1.2489660971407028e-10
  run : 568
 
 
@@ -1982,10 +1793,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.152189904
  run : 576
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.152189904525567
+The column with the minimum sum of squares is column 21 with a sum of 5.5182312904111066e-11
  run : 577
 
 
@@ -2013,10 +1821,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.152189904
  run : 585
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.151829604791818
+The column with the minimum sum of squares is column 7 with a sum of 5.007382370714149e-11
  run : 586
 
 
@@ -2044,10 +1849,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.151829604
  run : 594
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.151829604791818
+The column with the minimum sum of squares is column 29 with a sum of 3.866888985093469e-11
  run : 595
 
 
@@ -2075,10 +1877,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.151829604
  run : 603
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.151829604791818
+The column with the minimum sum of squares is column 17 with a sum of 1.418194694636483e-11
  run : 604
 
 
@@ -2106,10 +1905,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.151829604
  run : 612
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.151829604791818
+The column with the minimum sum of squares is column 16 with a sum of 1.0840641056652456e-11
  run : 613
 
 
@@ -2137,10 +1933,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.151829604
  run : 621
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.1510705070222516
+The column with the minimum sum of squares is column 3 with a sum of 9.444857708731513e-12
  run : 622
 
 
@@ -2168,10 +1961,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.151070507
  run : 630
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.1510705070222516
+The column with the minimum sum of squares is column 16 with a sum of 8.957707979505226e-12
  run : 631
 
 
@@ -2199,10 +1989,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.151070507
  run : 639
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.150919964719361
+The column with the minimum sum of squares is column 26 with a sum of 3.793859897090181e-12
  run : 640
 
 
@@ -2230,10 +2017,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150919964
  run : 648
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.150919964719361
+The column with the minimum sum of squares is column 42 with a sum of 2.571995573046986e-12
  run : 649
 
 
@@ -2261,10 +2045,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150919964
  run : 657
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.150919964719361
+The column with the minimum sum of squares is column 44 with a sum of 2.155868652648901e-12
  run : 658
 
 
@@ -2292,10 +2073,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150919964
  run : 666
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.150892872484567
+The column with the minimum sum of squares is column 24 with a sum of 1.7570735673371238e-12
  run : 667
 
 
@@ -2323,10 +2101,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150892872
  run : 675
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 42 with a sum of 6.361910929603336e-13
  run : 676
 
 
@@ -2354,10 +2129,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 684
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 31 with a sum of 4.716671336964302e-13
  run : 685
 
 
@@ -2385,10 +2157,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 693
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 39 with a sum of 4.433732327706639e-13
  run : 694
 
 
@@ -2416,10 +2185,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 702
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 23 with a sum of 1.9792182425321095e-13
  run : 703
 
 
@@ -2447,10 +2213,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 711
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 23 with a sum of 1.9792182425321095e-13
  run : 712
 
 
@@ -2478,10 +2241,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 720
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 46 with a sum of 7.59434296951829e-14
  run : 721
 
 
@@ -2509,10 +2269,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 729
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 46 with a sum of 6.636825498296484e-14
  run : 730
 
 
@@ -2540,10 +2297,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 738
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 44 with a sum of 3.466252575738982e-14
  run : 739
 
 
@@ -2571,10 +2325,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 747
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 36 with a sum of 3.4483402105659993e-14
  run : 748
 
 
@@ -2602,10 +2353,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 756
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 12 with a sum of 1.4991287806337055e-14
  run : 757
 
 
@@ -2633,10 +2381,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 765
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 42 with a sum of 1.0483304238542713e-14
  run : 766
 
 
@@ -2664,10 +2409,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 774
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 37 with a sum of 2.4538378652551808e-15
  run : 775
 
 
@@ -2695,10 +2437,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 783
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 37 with a sum of 2.1219492365437273e-15
  run : 784
 
 
@@ -2726,10 +2465,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 792
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 37 with a sum of 2.1219492365437273e-15
  run : 793
 
 
@@ -2757,10 +2493,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 801
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 13 with a sum of 1.221616507578138e-15
  run : 802
 
 
@@ -2788,10 +2521,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 810
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 37 with a sum of 1.1321727006406915e-15
  run : 811
 
 
@@ -2819,10 +2549,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 819
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 23 with a sum of 6.121369148354967e-16
  run : 820
 
 
@@ -2850,10 +2577,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 828
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 3 with a sum of 4.211661027573811e-16
  run : 829
 
 
@@ -2881,10 +2605,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 837
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 34 with a sum of 1.9302639258964417e-16
  run : 838
 
 
@@ -2912,10 +2633,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 846
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 3 with a sum of 1.709556344461063e-16
  run : 847
 
 
@@ -2943,10 +2661,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 855
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 32 with a sum of 6.767846518182119e-17
  run : 856
 
 
@@ -2974,10 +2689,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 864
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 33 with a sum of 5.792381072566087e-17
  run : 865
 
 
@@ -3005,10 +2717,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 873
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 5 with a sum of 5.3327151393192605e-17
  run : 874
 
 
@@ -3036,10 +2745,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 882
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 26 with a sum of 3.7526455328924084e-17
  run : 883
 
 
@@ -3067,10 +2773,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 891
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 49 with a sum of 2.328591889171513e-17
  run : 892
 
 
@@ -3098,10 +2801,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 900
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 1 with a sum of 1.671080600935295e-17
  run : 901
 
 
@@ -3129,10 +2829,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 909
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 19 with a sum of 4.589947579930842e-18
  run : 910
 
 
@@ -3160,10 +2857,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 918
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 19 with a sum of 4.589947579930842e-18
  run : 919
 
 
@@ -3191,10 +2885,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 927
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 6 with a sum of 2.213811251019511e-18
  run : 928
 
 
@@ -3222,10 +2913,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 936
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 19 with a sum of 1.4794319709487344e-18
  run : 937
 
 
@@ -3253,10 +2941,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 945
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 21 with a sum of 9.79819890590522e-19
  run : 946
 
 
@@ -3284,10 +2969,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 954
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 21 with a sum of 6.034101217185242e-19
  run : 955
 
 
@@ -3315,10 +2997,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 963
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 21 with a sum of 6.034101217185242e-19
  run : 964
 
 
@@ -3346,10 +3025,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 972
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 5 with a sum of 3.7260386241279276e-19
  run : 973
 
 
@@ -3377,10 +3053,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 981
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 32 with a sum of 2.2147490670338255e-19
  run : 982
 
 
@@ -3408,10 +3081,7 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 990
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 17 with a sum of 1.342874935646816e-19
  run : 991
 
 
@@ -3439,7 +3109,4 @@ The column with the minimum sum of squares is column 3 with a sum of 5.150540211
  run : 999
 
 
- count : 9
-
-
-The column with the minimum sum of squares is column 3 with a sum of 5.15054021104428
+The column with the minimum sum of squares is column 46 with a sum of 1.2846752559652573e-19
