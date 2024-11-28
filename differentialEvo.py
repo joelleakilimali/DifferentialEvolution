@@ -141,47 +141,64 @@ def processSolutions(initialSolution, mutatedSolution,c2=None,f2=None):
 
 
 
-with open('selection2.txt', 'w') as file:
+with open('loop.txt', 'w') as file:
     
     sys.stdout = file
     print("differential evolution")
+    CRPrime = [0.1,0.2, 0.3,0.4, 0.5, 0.6, 0.7,0.8]
+    FPrime = [0.4, 0.5, 0.6, 0.7,0.8, 0.9,1.0,1.1]
     tab =  [0.0,0.0,0.0,0.0,0.0]
-    
-    for time in range(5):
-        value=0
+    for j in range(8):
         
-        count=0
-        newInitial=initialSolution
-                                
-        for i in range(1000):
+    
+        for time in range(5):
+            value=0
             
-            # print(" run :",i)
-            # print("\n")            
+            count=0
+            newInitial=initialSolution
+                                    
+            for i in range(1000):
+                
+                # print(" run :",i)
+                # print("\n")            
+                        
+                selectedMatrice = processSolutions( initialSolution=newInitial,
+                mutatedSolution=mutatedSolution,c2=CRPrime[j],f2=FPrime[j])  
+                newInitial=selectedMatrice
                     
-            selectedMatrice = processSolutions( initialSolution=newInitial,
-            mutatedSolution=mutatedSolution,)  
-            newInitial=selectedMatrice
+                if(count==9):
+                    value=minColumnSum(selectedMatrice)
+                    
+                    count=0
                 
-            if(count==9):
-                value=minColumnSum(selectedMatrice)
                 
-                count=0
+                count = count + 1
+            # print(" zeu val:", value,time) 
+            # print("----------------------------------------\n")
+            count=0
+            initialSolution = generate2DArray(row,col,minV,maxV)
+            mutatedSolution=generate2DArray(row,col,0,0) 
             
-               
-            count = count + 1
-        print(" zeu val:", value,time) 
-        print("----------------------------------------")
-        count=0
+            tab[time]=value
+        print("with CR and F value :",CRPrime[j],FPrime[j])
+            
+        print("the tab with different value of min:\n")
+        print(tab)
+        print('\n')
         
-        tab[time]=value
-    print("the tab:",tab)
-    
-    minimum = 0 
-    average=0   
-    minimum = min(tab)
-    average = math.fsum(tab) / len(tab)
-    print("the  min is\n:",minimum)
-    print("the average is\n:",average)
+        minimum = 0 
+        average=0   
+        minimum = min(tab)
+        average = math.fsum(tab) / len(tab)
+        print("the  min is  :",minimum)
+        print("the average is  :",average)
+        print("Next iteration for CR and F\n")
+        print("*******************************************************************\n")
+        print("--------------------RE INITIALIZE EVERYTHING-----------------------\n")
+        
+        
+        initialSolution = generate2DArray(row,col,minV,maxV)
+        mutatedSolution=generate2DArray(row,col,0,0) 
     
 
         
@@ -199,7 +216,7 @@ sys.stdout = sys.__stdout__
         
 
 
-#     # Define the arrays and the function
+    # Define the arrays and the function
 #     cr = [0, 1, 2, 3, 4, 5, 6, 7, 8]
 #     f = [4, 5, 6, 7, 8, 9, 10, 11, 12]
 #     result_table = npy.empty((len(cr) + 1, len(f) + 1), dtype=object)
