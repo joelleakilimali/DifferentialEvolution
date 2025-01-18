@@ -1,0 +1,113 @@
+differential evolution
+with CR and F value : 0.1 0.4
+the tab with different value of min:
+
+[183.64499999999998, 174.37840000000003, 130.3795, 166.2051, 139.1129]
+
+
+the  min is  : 130.3795
+the average is  : 158.74418
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.2 0.5
+the tab with different value of min:
+
+[193.7781, 172.69219999999999, 163.27360000000004, 169.78630000000004, 152.3485]
+
+
+the  min is  : 152.3485
+the average is  : 170.37574
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.3 0.6
+the tab with different value of min:
+
+[148.3236, 165.72490000000002, 160.63510000000002, 159.6072, 134.465]
+
+
+the  min is  : 134.465
+the average is  : 153.75116
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.4 0.7
+the tab with different value of min:
+
+[127.6997, 165.8934, 147.7337, 164.55660000000003, 162.74039999999997]
+
+
+the  min is  : 127.6997
+the average is  : 153.72476
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.5 0.8
+the tab with different value of min:
+
+[130.17419999999998, 130.5958, 149.04360000000003, 167.67749999999998, 143.2811]
+
+
+the  min is  : 130.17419999999998
+the average is  : 144.15444
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.6 0.9
+the tab with different value of min:
+
+[148.57670000000002, 166.49150000000003, 155.05219999999997, 136.02810000000002, 156.1053]
+
+
+the  min is  : 136.02810000000002
+the average is  : 152.45076
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.7 1.0
+the tab with different value of min:
+
+[159.8277, 137.7227, 127.43769999999998, 173.6683, 172.4811]
+
+
+the  min is  : 127.43769999999998
+the average is  : 154.2275
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
+with CR and F value : 0.8 1.1
+the tab with different value of min:
+
+[166.47769999999997, 146.9295, 169.26300000000003, 183.57559999999995, 173.873]
+
+
+the  min is  : 146.9295
+the average is  : 168.02375999999998
+Next iteration for CR and F
+
+*******************************************************************
+
+--------------------RE INITIALIZE EVERYTHING-----------------------
+
